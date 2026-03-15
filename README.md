@@ -14,6 +14,7 @@ Working with multiple ADB devices can be time-consuming, especially when you hav
 * **Log Management:** Easily start and stop log recording with custom filenames. 
 
 ## Prerequisites
+Ensure you have ADB Installed ( Platform Tools ) and scrcpy if you need Screen Casting
 Ensure you have Python 3 installed. You will need the `tkinter` library:
 * **Windows/macOS:** `pip install tk`
 * **Linux:** `sudo apt-get install python3-tk` 
